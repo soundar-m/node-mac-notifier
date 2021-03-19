@@ -20,12 +20,12 @@
   "author": "Charlie Hess",
   "devDependencies": {
     "mocha": "^6.1.4",
-    "nan": "^2.13.2",
     "node-gyp": "^4.0.0"
   },
   "dependencies": {
     "bindings": "^1.2.1",
     "event-target-shim": "^1.1.1",
+    "nan": "^2.13.2",
     "uuid": "^3.3.2"
   }
 }
